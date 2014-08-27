@@ -1,2 +1,1 @@
-vega-demo
-=========
+This is a demo respository.
